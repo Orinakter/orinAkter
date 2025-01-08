@@ -85,6 +85,14 @@
 
 ###
 
+<p align="left">Skills</p>
+
+###
+
+<p align="left">Frontend: HTML, CSS, JavaScript, React, Next.js<br><br>Backend: Node.js, Express, MongoDB<br><br>Tools: Git,VSCode,</p>
+
+###
+
 <img src="https://raw.githubusercontent.com/Orinakter/Orinakter/output/snake.svg" alt="Snake animation" />
 
 ###
